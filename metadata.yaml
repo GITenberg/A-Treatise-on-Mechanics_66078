@@ -1,0 +1,26 @@
+_repo: A-Treatise-on-Mechanics_66078
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Kater, Henry
+    gutenberg_agent_id: '53628'
+    url: http://www.gutenberg.org/2009/agents/53628
+  - agent_name: Lardner, Dionysius
+    birthdate: 1793
+    deathdate: 1859
+    gutenberg_agent_id: '41766'
+    url: http://www.gutenberg.org/2009/agents/41766
+    wikipedia: https://en.wikipedia.org/wiki/Dionysius_Lardner
+description: ''
+gutenberg_issued: '2021-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Treatise on Mechanics
+url: http://www.gutenberg.org/ebooks/66078
