@@ -1,5 +1,8 @@
 _repo: A-Treatise-on-Mechanics_66078
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66078-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Kater, Henry
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41766
     wikipedia: https://en.wikipedia.org/wiki/Dionysius_Lardner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66078#A-Treatise-on-Mechanics
 gutenberg_issued: '2021-08-17'
 gutenberg_type: Text
 identifiers:
